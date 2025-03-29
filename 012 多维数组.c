@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-    int intArr[2][2] = {{1,2},{3,4}};//浣跨敤澶氫釜涓嬫爣鏋勫缓澶氱淮鏁扮粍
+    int intArr[2][2] = {{1,2},{3,4}};//使用多个下标构建多维数组
     char charArr[4][20] ={"ABCD","EFGA","AAAA","HELO"};
 
     int i,j;
